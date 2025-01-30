@@ -8,7 +8,6 @@ This project is a beautifully designed **Animated Login Form** created using **H
 - **Background Animation**: A visually appealing animated background.
 - **Interactive Input Fields**: Input fields change effects when focused.
 - **SVG Animation**: Custom animated SVG elements for a dynamic feel.
-- **Social Media Links**: Quick access to LinkedIn, Facebook, Instagram, and Gmail.
 - **Fully Responsive**: Works seamlessly on all screen sizes.
 
 ## Technologies Used
@@ -29,15 +28,6 @@ animated-login-form/
 │── script.js        # JavaScript interactions
 │── assets/          # Images, icons, and animations
 ```
-
-## Contributing
-If you'd like to contribute:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-name`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature-name`)
-5. Create a Pull Request
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
